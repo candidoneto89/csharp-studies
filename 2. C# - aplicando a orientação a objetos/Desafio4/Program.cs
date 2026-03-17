@@ -1,5 +1,4 @@
-﻿
-// Curso C#: aplicando a Orientação a Objetos @ Alura
+﻿// Curso C#: aplicando a Orientação a Objetos @ Alura
 // Cândido da Nóbrega F. Neto
 // Desafio 4:
 
