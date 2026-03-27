@@ -5,4 +5,5 @@ Repositório de estudos em C# com exercícios e projetos de cursos online.
 ### Alura:
 - ✔ C# - Construa sua primeira aplicação
 - ✔ C# - Aplicando a Orientação a Objetos
-- ⏳ C# - Dominando a Orientação a Objetos
+- ✔ C# - Dominando a Orientação a Objetos
+- ⏳ C# - Consumindo API, gravando arquivos e utilizando o LINQ
